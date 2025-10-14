@@ -1,0 +1,38 @@
+{
+  "background_color": "#b0ffa9",
+  "description": "Coaching für mentale Stärke &amp; Klarheit",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "nexus-coach.blogspot",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "nexus-coach.blogspot",
+  "start_url": "/",
+  "theme_color": "#94f6f6",
+  "icons": [
+    {
+      "src": "https://nexus-coach.blogspot.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://nexus-coach.blogspot.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
