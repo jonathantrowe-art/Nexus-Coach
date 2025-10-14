@@ -10,6 +10,14 @@
   "start_url": "/",
   "theme_color": "#94f6f6",
   "icons": [
+
+     "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
     {
       "src": "https://nexus-coach.blogspot.com/favicon.ico",
       "type": "image/x-icon",
