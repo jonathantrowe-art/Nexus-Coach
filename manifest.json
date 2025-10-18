@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "nexus-coach",
-  "start_url": "/",
+  "start_url": "https://nexus-coach.blogspot.com/"
   "theme_color": "#94f6f6",
   "icons": [
     {
