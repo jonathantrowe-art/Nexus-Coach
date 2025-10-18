@@ -6,20 +6,20 @@
   "name": "nexus-coach.blogspot",
   "orientation": "any",
   "scope": "/",
-  "short_name": "nexus-coach.blogspot",
+  "short_name": "nexus-coach",
   "start_url": "/",
   "theme_color": "#94f6f6",
   "icons": [
     {
-      "src": "icon-512.png",
+      "src": "https://raw.githubusercontent.com/jonathantrowe-art/Nexus-Coach/main/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
-       "purpose": "any maskable"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "https://nexus-coach.blogspot.com/favicon.ico",
-      "sizes": "48x48",
-      "type": "image/x-icon"
+      "src": "https://raw.githubusercontent.com/jonathantrowe-art/Nexus-Coach/main/icon-180.jpg",
+      "sizes": "180x180",
+      "type": "image/jpeg"
     }
   ]
 }
