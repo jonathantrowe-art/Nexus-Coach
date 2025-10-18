@@ -3,10 +3,10 @@
   "description": "Coaching für mentale Stärke & Klarheit",
   "dir": "ltr",
   "display": "standalone",
-  "name": "nexus-coach.blogspot",
+  "name": "Nexus-Coach",
   "orientation": "any",
   "scope": "/",
-  "short_name": "nexus-coach",
+  "short_name": "Nexus",
   "start_url": "https://nexus-coach.blogspot.com/",
   "theme_color": "#94f6f6",
   "icons": [
@@ -20,6 +20,11 @@
       "src": "https://raw.githubusercontent.com/jonathantrowe-art/Nexus-Coach/main/icon-180.jpg",
       "sizes": "180x180",
       "type": "image/jpeg"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jonathantrowe-art/Nexus-Coach/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     }
   ]
 }
