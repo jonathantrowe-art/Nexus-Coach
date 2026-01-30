@@ -1,12 +1,12 @@
 import { defineConfig } from "astro/config";
 import vercel from "@astrojs/vercel/serverless";
-import { VitePWA } from "@vite-pwa/astro";
+import pwa from "@vite-pwa/astro";
 
 export default defineConfig({
   output: "server",
   adapter: vercel(),
   integrations: [
-    VitePWA({
+    pwa({
       registerType: "autoUpdate",
       manifest: true,
       workbox: {
