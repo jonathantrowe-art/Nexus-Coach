@@ -1,11 +1,8 @@
 ---
-import { getCollection } from 'astro:content';
-const items = await getCollection('tools');
+import BaseLayout from "../../layouts/BaseLayout.astro";
 ---
 
-<h1>Tools</h1>
-<ul>
-  {items.map((item) => (
-    <li><a href={`/tools/${item.slug}`}>{item.data.title}</a></li>
-  ))}
-</ul>
+<BaseLayout title="Tools & Methoden" description="Praktische Werkzeuge für Klarheit und Fokus.">
+  <h1>Tools & Methoden</h1>
+  <p>Praktische Übungen, Methoden und Werkzeuge für deinen Alltag.</p>
+</BaseLayout>
