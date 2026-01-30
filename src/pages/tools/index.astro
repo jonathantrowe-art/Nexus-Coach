@@ -1,0 +1,11 @@
+---
+import { getCollection } from 'astro:content';
+const items = await getCollection('tools');
+---
+
+<h1>Tools</h1>
+<ul>
+  {items.map((item) => (
+    <li><a href={`/tools/${item.slug}`}>{item.data.title}</a></li>
+  ))}
+</ul>
